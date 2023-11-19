@@ -5,7 +5,7 @@ require("dotenv").config()
 const logRouter = require("./routes/log");
 
 
-const PORT = process.env.PORT || 4001;
+const PORT =  3000;
 
 const app = express()
 
